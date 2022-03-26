@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     width="170" 
+     height="170">
+    
+<title>- watch how it works - watch how it works - watch how it works </title>
+<defs>
+    <path d="M0,85a85,85 0 1,0 170,0a85,85 0 1,0 -170,0" id="textcircle" />
+    <style>
+        text { 
+            font-size: 14px;
+            font-family: "Gelasio", serif;
+            color: rgba(13, 34, 78, 1);
+            font-weight: 400; 
+            line-height: 1.21;
+            text-transform: uppercase;
+            letter-spacing: 0.68px;
+        }
+    </style>
+</defs> 
+    <text>
+        <textPath xlink:href="#textcircle">
+            - watch how it works - watch how it works - watch how it works 
+        </textPath>
+    </text>
+</svg>
